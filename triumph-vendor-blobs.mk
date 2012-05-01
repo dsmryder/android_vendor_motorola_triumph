@@ -16,9 +16,9 @@
 
 # 360 Launcher & Themes
 PRODUCT_COPY_FILES +=  \
-    vendor/motorola/triumph/proprietary/360_Launcher_V2.2.1.apk:system/app/360_Launcher_V2.2.1.apk \
-    vendor/motorola/triumph/proprietary/com.sonny.theme.ics-1.apk:system/app/com.sonny.theme.ics-1.apk \
-    vendor/motorola/triumph/proprietary/Miui4_semi_trans_hdpi.apk:system/app/Miui4_semi_trans_hdpi.apk 
+    vendor/motorola/triumph/proprietary/360.apk:system/app/360.apk \
+    vendor/motorola/triumph/proprietary/ics.apk:system/app/ics.apk \
+    vendor/motorola/triumph/proprietary/miui.apk:system/app/miui.apk 
 
 # HW init
 PRODUCT_COPY_FILES += \
